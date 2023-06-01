@@ -23,4 +23,4 @@ This repository is a template that contains boilerplate code to get your Discord
 
 ### More Information
 
-For more information on how to use and customize this Discord bot template, refer to the [link](/discord.js.org/ "discord.js documentation") discord.js documentation.
+For more information on how to use and customize this Discord bot template, refer to the [discord.js documentation](https://discord.js.org/) discord.js documentation.
