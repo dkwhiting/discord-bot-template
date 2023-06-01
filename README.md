@@ -23,7 +23,7 @@ Make sure to replace the example values with your own Discord bot token, client 
 npm install
 ```
 
-4. Register your commands to the specified guild and start the bot by running the following commands: 
+3. Register your commands to the specified guild and start the bot by running the following commands: 
  
  ```
  npm run deploy-commands
