@@ -15,11 +15,20 @@ This repository is a template that contains boilerplate code to get your Discord
      "guildId": "Guild ID goes here"
    }
    
-2. Run npm install to install the required dependencies.
+Make sure to replace the example values with your own Discord bot token, client ID, and guild ID.
+   
+2. Install the required dependencies by running the following command in your terminal:
 
-3. Run npm run deploy-commands to deploy the bot's commands to the Discord server.
+```
+npm install
+```
 
-4. Finally, run npm start to start the bot.
+4. Register your commands to the specified guild and start the bot by running the following commands: 
+ 
+ ```
+ npm run deploy-commands
+ npm start
+ ```
 
 ### More Information
 
