@@ -3,8 +3,8 @@
 ```
 // config.json
 {
-	"token": "Your token goes here",
+  "token": "Your token goes here",
   "clientId": "Client ID goes here",
-	"guildId": "Guild ID goes here"
+  "guildId": "Guild ID goes here"
 }
 ```
